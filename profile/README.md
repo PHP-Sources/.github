@@ -11,22 +11,22 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 ### 📦 Nos miroirs actifs
 
 **ERP / Gestion :**
-- [Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)
+- ![Dolibarr](https://phpsources.net/images/logo-logiciels/dolibarr.webp) [Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)
 
 **CMS :**
-- [Joomla CMS](https://github.com/PHP-Sources/joomla-cms)
-- [Drupal CMS](https://github.com/PHP-Sources/drupal-cms)
-- [SPIP CMS](https://github.com/PHP-Sources/spip-cms)
-- [ZwiiCMS](https://github.com/PHP-Sources/zwiicms)
-- [WordPress](https://github.com/PHP-Sources/wordpress-cms)
+- ![Joomla](https://phpsources.net/images/logo-logiciels/joomla.webp) [Joomla CMS](https://github.com/PHP-Sources/joomla-cms)
+- ![Drupal](https://phpsources.net/images/logo-logiciels/drupal.webp) [Drupal CMS](https://github.com/PHP-Sources/drupal-cms)
+- ![SPIP](https://phpsources.net/images/logo-logiciels/spip.webp) [SPIP CMS](https://github.com/PHP-Sources/spip-cms)
+- ![ZwiiCMS](https://phpsources.net/images/logo-logiciels/zwiicms.webp) [ZwiiCMS](https://github.com/PHP-Sources/zwiicms)
+- ![WordPress](https://phpsources.net/images/logo-logiciels/wordpress.webp) [WordPress](https://github.com/PHP-Sources/wordpress-cms)
 
 **E-commerce :**
-- [Zen Cart](https://github.com/PHP-Sources/zen-cart)
-- [OpenCart](https://github.com/PHP-Sources/opencart)
+- ![Zen Cart](https://phpsources.net/images/logo-logiciels/zencart.webp) [Zen Cart](https://github.com/PHP-Sources/zen-cart)
+- ![OpenCart](https://phpsources.net/images/logo-logiciels/opencart.webp) [OpenCart](https://github.com/PHP-Sources/opencart)
 
 **Autres :**
-- [SEO Panel](https://github.com/PHP-Sources/seo-panel)
-- [Elgg Social Network](https://github.com/PHP-Sources/elgg-social)
+- ![SEO Panel](https://phpsources.net/images/logo-logiciels/seo-panel.webp) [SEO Panel](https://github.com/PHP-Sources/seo-panel)
+- ![Elgg](https://phpsources.net/images/logo-logiciels/elgg.webp) [Elgg Social Network](https://github.com/PHP-Sources/elgg-social)
 
 ### 🔗 Accédez directement sur le site
 
@@ -36,6 +36,15 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 - [📊 ERP & Gestion](https://phpsources.net/scripts/php/logiciels/index)
 - [🛒 E-commerce](https://phpsources.net/scripts/php/ecommerce/index)
 - [🎨 CMS](https://phpsources.net/scripts/php/cms/index)
+
+**Version complète, mises à jour et support sur :**  
+👉 **[https://phpsources.net](https://phpsources.net)**
+
+---
+
+⭐ Si nos miroirs vous sont utiles, mettez une **star** sur l’organisation et sur les dépôts qui vous intéressent !
+
+Fait avec ❤️ pour la communauté PHP française
 
 **Version complète, mises à jour et support sur :**  
 👉 **[https://phpsources.net](https://phpsources.net)**
