@@ -11,22 +11,22 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 ### 📦 Nos miroirs actifs
 
 **ERP / Gestion :**
-- <img src="https://phpsources.net/images/logo-logiciels/dolibarr.webp" width="48" height="48" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)**
+- [Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)
 
 **CMS :**
-- <img src="https://phpsources.net/images/logo-logiciels/joomla.webp" width="48" height="48" alt="Joomla"> **[Joomla CMS](https://github.com/PHP-Sources/joomla-cms)**
-- <img src="https://phpsources.net/images/logo-logiciels/drupal.webp" width="48" height="48" alt="Drupal"> **[Drupal CMS](https://github.com/PHP-Sources/drupal-cms)**
-- <img src="https://phpsources.net/images/logo-logiciels/spip.webp" width="48" height="48" alt="SPIP"> **[SPIP CMS](https://github.com/PHP-Sources/spip-cms)**
-- <img src="https://phpsources.net/images/logo-logiciels/zwiicms.webp" width="48" height="48" alt="ZwiiCMS"> **[ZwiiCMS](https://github.com/PHP-Sources/zwiicms)**
-- <img src="https://phpsources.net/images/logo-logiciels/wordpress.webp" width="48" height="48" alt="WordPress"> **[WordPress](https://github.com/PHP-Sources/wordpress-cms)**
+- [Joomla CMS](https://github.com/PHP-Sources/joomla-cms)
+- [Drupal CMS](https://github.com/PHP-Sources/drupal-cms)
+- [SPIP CMS](https://github.com/PHP-Sources/spip-cms)
+- [ZwiiCMS](https://github.com/PHP-Sources/zwiicms)
+- [WordPress](https://github.com/PHP-Sources/wordpress-cms)
 
 **E-commerce :**
-- <img src="https://phpsources.net/images/logo-logiciels/zencart.webp" width="48" height="48" alt="Zen Cart"> **[Zen Cart](https://github.com/PHP-Sources/zen-cart)**
-- <img src="https://phpsources.net/images/logo-logiciels/opencart.webp" width="48" height="48" alt="OpenCart"> **[OpenCart](https://github.com/PHP-Sources/opencart)**
+- [Zen Cart](https://github.com/PHP-Sources/zen-cart)
+- [OpenCart](https://github.com/PHP-Sources/opencart)
 
 **Autres :**
-- <img src="https://phpsources.net/images/logo-logiciels/seo-panel.webp" width="48" height="48" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)**
-- <img src="https://phpsources.net/images/logo-logiciels/elgg.webp" width="48" height="48" alt="Elgg"> **[Elgg Social Network](https://github.com/PHP-Sources/elgg-social)**
+- [SEO Panel](https://github.com/PHP-Sources/seo-panel)
+- [Elgg Social Network](https://github.com/PHP-Sources/elgg-social)
 
 ### 🔗 Accédez directement sur le site
 
@@ -41,10 +41,6 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 👉 **[https://phpsources.net](https://phpsources.net)**
 
 ---
-
-⭐ Si nos miroirs vous sont utiles, mettez une **star** sur l’organisation et sur les dépôts qui vous intéressent !
-
-Fait avec ❤️ pour la communauté PHP française
 
 ⭐ Si nos miroirs vous sont utiles, mettez une **star** sur l’organisation et sur les dépôts qui vous intéressent !
 
