@@ -11,22 +11,22 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 ### 📦 Nos miroirs actifs
 
 **ERP / Gestion :**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr%20erp.webp" width="48" height="48" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr%20erp.webp" width="25" height="25" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)**
 
 **CMS :**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/joomla.webp" width="48" height="48" alt="Joomla"> **[Joomla CMS](https://github.com/PHP-Sources/joomla-cms)**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/drupal.webp" width="48" height="48" alt="Drupal"> **[Drupal CMS](https://github.com/PHP-Sources/drupal-cms)**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/spip.webp" width="48" height="48" alt="SPIP"> **[SPIP CMS](https://github.com/PHP-Sources/spip-cms)**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/zwiicms.webp" width="48" height="48" alt="ZwiiCMS"> **[ZwiiCMS](https://github.com/PHP-Sources/zwiicms)**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/wordpress.webp" width="48" height="48" alt="WordPress"> **[WordPress](https://github.com/PHP-Sources/wordpress-cms)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/joomla.webp" width="25" height="25" alt="Joomla"> **[Joomla CMS](https://github.com/PHP-Sources/joomla-cms)**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/drupal.webp" width="25" height="25" alt="Drupal"> **[Drupal CMS](https://github.com/PHP-Sources/drupal-cms)**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/spip.webp" width="25" height="25" alt="SPIP"> **[SPIP CMS](https://github.com/PHP-Sources/spip-cms)**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/zwiicms.webp" width="25" height="25" alt="ZwiiCMS"> **[ZwiiCMS](https://github.com/PHP-Sources/zwiicms)**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/wordpress.webp" width="25" height="25" alt="WordPress"> **[WordPress](https://github.com/PHP-Sources/wordpress-cms)**
 
 **E-commerce :**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/zen%20cart.webp" width="48" height="48" alt="Zen Cart"> **[Zen Cart](https://github.com/PHP-Sources/zen-cart)**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/opencart.webp" width="48" height="48" alt="OpenCart"> **[OpenCart](https://github.com/PHP-Sources/opencart)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/zen%20cart.webp" width="25" height="25" alt="Zen Cart"> **[Zen Cart](https://github.com/PHP-Sources/zen-cart)**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/opencart.webp" width="25" height="25" alt="OpenCart"> **[OpenCart](https://github.com/PHP-Sources/opencart)**
 
 **Autres :**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/seo%20panel.webp" width="48" height="48" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)**
-- <img src="https://github.com/PHP-Sources/.github/raw/main/logos/elgg.webp" width="48" height="48" alt="Elgg"> **[Elgg Social Network](https://github.com/PHP-Sources/elgg-social)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/seo%20panel.webp" width="25" height="25" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/elgg.webp" width="25" height="25" alt="Elgg"> **[Elgg Social Network](https://github.com/PHP-Sources/elgg-social)**
 
 ### 🔗 Accédez directement sur le site
 
