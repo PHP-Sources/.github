@@ -1,4 +1,4 @@
-# PHP-Sources
+# PHP Sources
 
 **La plus grande bibliothèque open source PHP francophone**
 
