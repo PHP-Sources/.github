@@ -50,6 +50,9 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 - [📊 ERP & Gestion](https://phpsources.net/scripts/php/logiciels/index)
 - [🛒 E-commerce](https://phpsources.net/scripts/php/ecommerce/index)
 - [🎨 CMS](https://phpsources.net/scripts/php/cms/index)
+- [💻 Les codes sources](https://phpsources.net/codes/php/index)
+- [🔣 Liste des Caractères spéciaux](https://phpsources.net/caracteres-iso.htm)
+- [❤️ Faire un don](https://donorbox.org/php-sources)
 
 **Version complète, mises à jour et support sur :**  
 👉 **[https://phpsources.net](https://phpsources.net)**
