@@ -40,8 +40,8 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 **Autres**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/seo%20panel.webp" width="20" height="20" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/elgg.webp" width="20" height="20" alt="Elgg"> **[Elgg Social Network](https://github.com/PHP-Sources/elgg-social)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpmychat.webp" width="20" height="20" alt="phpMyChat"> **[phpMyChat](https://github.com/PHP-Sources/phpmychat)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/webcalendar.webp" width="20" height="20" alt="WebCalendar"> **[WebCalendar](https://github.com/PHP-Sources/webcalendar)**
+**[phpMyChat](https://github.com/PHP-Sources/phpmychat)** · 
+**[WebCalendar](https://github.com/PHP-Sources/webcalendar)**
 
 ### 🔗 Accédez directement sur le site
 
