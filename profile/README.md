@@ -12,7 +12,7 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter lâ€™accÃ
 
 **ERP / Gestion :**
 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr%20erp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarrerp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)**
 
 **CMS :**
 
