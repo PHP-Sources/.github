@@ -47,7 +47,6 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 
 - [📦 Tous les scripts](https://phpsources.net/scripts/php/index)
 - [🔥 Les dernières parutions](https://phpsources.net/)
-- [🛠 Outils](https://phpsources.net/codes/php/index)
 - [📊 ERP & Gestion](https://phpsources.net/scripts/php/logiciels/index)
 - [🛒 E-commerce](https://phpsources.net/scripts/php/ecommerce/index)
 - [🎨 CMS](https://phpsources.net/scripts/php/cms/index)
