@@ -48,8 +48,10 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/dotclear.webp" width="20" height="20" alt="DotClear"> **[DotClear](https://github.com/PHP-Sources/dotclear)**
 
 **Forums**  
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/minibb.webp" width="20" height="20" alt="miniBB"> **[miniBB](https://github.com/PHP-Sources/minibb)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/fudforum.webp" width="20" height="20" alt="FUDforum"> **[FUDforum](https://github.com/PHP-Sources/fudforum)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/simple-machines-forum.webp" width="20" height="20" alt="Simple Machines Forum"> **[Simple Machines Forum](https://github.com/PHP-Sources/simple-machines-forum)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpbb.webp" width="20" height="20" alt="phpBB"> **[phpBB](https://github.com/PHP-Sources/phpbb)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/mybb.webp" width="20" height="20" alt="MyBB"> **[MyBB](https://github.com/PHP-Sources/mybb)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/punbb.webp" width="20" height="20" alt="PunBB"> **[PunBB](https://github.com/PHP-Sources/punbb)**
 
 **Autres**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/seo%20panel.webp" width="20" height="20" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)** · 
