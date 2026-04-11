@@ -36,11 +36,26 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 **E-commerce**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/zen%20cart.webp" width="20" height="20" alt="Zen Cart"> **[Zen Cart](https://github.com/PHP-Sources/zen-cart)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/opencart.webp" width="20" height="20" alt="OpenCart"> **[OpenCart](https://github.com/PHP-Sources/opencart)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/cubecart.webp" width="20" height="20" alt="CubeCart"> **[CubeCart](https://github.com/PHP-Sources/cubecart)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/cubecart.webp" width="20" height="20" alt="CubeCart"> **[CubeCart](https://github.com/PHP-Sources/cubecart)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/litecart.webp" width="20" height="20" alt="LiteCart"> **[LiteCart](https://github.com/PHP-Sources/litecart)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/prestashop.webp" width="20" height="20" alt="PrestaShop"> **[PrestaShop](https://github.com/PHP-Sources/prestashop)**
+
+**Blogs**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/b2evolution.webp" width="20" height="20" alt="b2evolution"> **[b2evolution](https://github.com/PHP-Sources/b2evolution)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/serendipity.webp" width="20" height="20" alt="Serendipity"> **[Serendipity](https://github.com/PHP-Sources/serendipity)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dotclear.webp" width="20" height="20" alt="DotClear"> **[DotClear](https://github.com/PHP-Sources/dotclear)**
+
+**Forums**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/minibb.webp" width="20" height="20" alt="miniBB"> **[miniBB](https://github.com/PHP-Sources/minibb)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/fudforum.webp" width="20" height="20" alt="FUDforum"> **[FUDforum](https://github.com/PHP-Sources/fudforum)**
 
 **Autres**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/seo%20panel.webp" width="20" height="20" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/elgg.webp" width="20" height="20" alt="Elgg"> **[Elgg Social Network](https://github.com/PHP-Sources/elgg-social)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpmyfaq.webp" width="20" height="20" alt="phpMyFAQ"> **[phpMyFAQ](https://github.com/PHP-Sources/phpmyfaq)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpsysinfo.webp" width="20" height="20" alt="phpSysInfo"> **[phpSysInfo](https://github.com/PHP-Sources/phpsysinfo)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/zentao.webp" width="20" height="20" alt="ZenTao"> **[ZenTao](https://github.com/PHP-Sources/zentao)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/ampache.webp" width="20" height="20" alt="Ampache"> **[Ampache](https://github.com/PHP-Sources/ampache)** · 
 **[phpMyChat](https://github.com/PHP-Sources/phpmychat)** · 
 **[WebCalendar](https://github.com/PHP-Sources/webcalendar)**
 
@@ -54,6 +69,15 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 - [💻 Les codes sources](https://phpsources.net/codes/php/index)
 - [🔣 Liste des Caractères spéciaux](https://phpsources.net/caracteres-iso.htm)
 - [❤️ Faire un don](https://donorbox.org/php-sources)
+
+**Version complète, mises à jour et support sur :**  
+👉 **[https://phpsources.net](https://phpsources.net)**
+
+---
+
+⭐ Si nos miroirs vous sont utiles, mettez une **star** sur l’organisation et sur les dépôts qui vous intéressent !
+
+Fait avec ❤️ pour la communauté PHP française
 
 **Version complète, mises à jour et support sur :**  
 👉 **[https://phpsources.net](https://phpsources.net)**
