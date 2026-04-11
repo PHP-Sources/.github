@@ -11,7 +11,7 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 ### 📦 Nos miroirs actifs
 
 **ERP / Gestion**  
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarrerp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr erp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/weberp.webp" width="20" height="20" alt="Web ERP Accounting"> **[Web ERP Accounting](https://github.com/PHP-Sources/weberp)**
 
 **CMS**  
