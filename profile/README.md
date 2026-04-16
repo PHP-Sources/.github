@@ -6,7 +6,19 @@
 
 ### 🎯 +3200 scripts et 750 snippets
 
-Nous maintenons sur GitHub les derniers scripts pour faciliter l’accès, le versionage (versioning) et la communauté. Toutes les fiches de ces scripts sur phpsources.net possèdent des outils d'analyse qui permettent d'avoir rapidement l'arborescence, les statistiques, de visualiser la documentation (fichier readme, licence, installation...) et d'explorer la totalité de l'archive ZIP. L'exploreur offre la possibilité de visionner chaque fichier, de les télécharger et de faire des recherches au sein des fichiers.
+Nous maintenons sur GitHub les **dernières versions** des scripts PHP pour faciliter l’**accès**, le **versioning** et la **communauté**.
+
+Toutes les fiches sur **phpsources.net** sont équipées d’**outils d’analyse avancés** qui permettent de :
+
+- Visualiser rapidement l’**arborescence** des fichiers
+- Consulter les **statistiques**
+- Voir la **documentation** (README, licence, installation…)
+- **Explorer** entièrement l’archive ZIP
+
+L’**explorateur** intégré offre la possibilité de :
+- Visionner chaque fichier
+- Les télécharger individuellement
+- Effectuer des **recherches** au sein des fichiers
 
 ### 📦 Nos miroirs actifs
 
