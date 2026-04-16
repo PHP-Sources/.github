@@ -76,7 +76,7 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/magepattern.webp" width="20" height="20" alt="Magepattern"> **[Magepattern](https://github.com/PHP-Sources/magepattern)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/html-purifier.webp" width="20" height="20" alt="HTML Purifier"> **[HTML Purifier](https://github.com/PHP-Sources/html-purifier)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/jpgraph.webp" width="20" height="20" alt="JpGraph"> **[JpGraph](https://github.com/PHP-Sources/jpgraph)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/forms-tools.webp" width="20" height="20" alt="Forms Tools"> **[Forms Tools](https://github.com/PHP-Sources/forms-tools)**
+**[Forms Tools](https://github.com/PHP-Sources/forms-tools)**
 
 **Email & Webmail**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/phplist.webp" width="20" height="20" alt="phpList"> **[phpList](https://github.com/PHP-Sources/phplist)** · 
