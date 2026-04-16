@@ -4,9 +4,9 @@
 
 [![Website](https://img.shields.io/badge/Site%20Web-phpsources.net-007ACC?style=for-the-badge&logo=php&logoColor=white)](https://phpsources.net)
 
-### 🎯 +4000 scripts PHP prêts à l’emploi
+### 🎯 +3200 scripts et 750 snippets
 
-Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’accès, le versionning et la communauté.
+Nous maintenons sur GitHub les derniers scripts pour faciliter l’accès, le versionage (versioning) et la communauté. Toutes les fiches de ces scripts sur phpsources.net possèdent des outils d'analyse qui permettent d'avoir rapidement l'arborescence, les statistiques, de visualiser la documentation (fichier readme, licence, installation...) et d'explorer la totalité de l'archive ZIP. L'exploreur offre la possibilité de visionner chaque fichier, de les télécharger et de faire des recherches au sein des fichiers.
 
 ### 📦 Nos miroirs actifs
 
