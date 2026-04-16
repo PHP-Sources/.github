@@ -12,7 +12,7 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 
 **ERP / Gestion**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarrerp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/web erp accounting.webp" width="20" height="20" alt="Web ERP Accounting"> **[Web ERP Accounting](https://github.com/PHP-Sources/weberp)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/weberp.webp" width="20" height="20" alt="Web ERP Accounting"> **[Web ERP Accounting](https://github.com/PHP-Sources/weberp)**
 
 **CMS**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/joomla.webp" width="20" height="20" alt="Joomla"> **[Joomla CMS](https://github.com/PHP-Sources/joomla-cms)** · 
@@ -76,6 +76,31 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/minibb.webp" width="20" height="20" alt="miniBB"> **[miniBB](https://github.com/PHP-Sources/minibb)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/fudforum.webp" width="20" height="20" alt="FUDforum"> **[FUDforum](https://github.com/PHP-Sources/fudforum)**
 
+**Galeries & Wikis**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/zenphoto.webp" width="20" height="20" alt="Zenphoto"> **[Zenphoto](https://github.com/PHP-Sources/zenphoto)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/piwigo.webp" width="20" height="20" alt="Piwigo"> **[Piwigo](https://github.com/PHP-Sources/piwigo)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/mahara.webp" width="20" height="20" alt="Mahara"> **[Mahara](https://github.com/PHP-Sources/mahara)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dokuwiki.webp" width="20" height="20" alt="DokuWiki"> **[DokuWiki](https://github.com/PHP-Sources/dokuwiki)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/mediawiki.webp" width="20" height="20" alt="MediaWiki"> **[MediaWiki](https://github.com/PHP-Sources/mediawiki)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/pmwiki.webp" width="20" height="20" alt="PmWiki"> **[PmWiki](https://github.com/PHP-Sources/pmwiki)**
+
+**Outils & Frameworks**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/yii-framework.webp" width="20" height="20" alt="Yii Framework"> **[Yii Framework](https://github.com/PHP-Sources/yii-framework)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/magepattern.webp" width="20" height="20" alt="Magepattern"> **[Magepattern](https://github.com/PHP-Sources/magepattern)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/html-purifier.webp" width="20" height="20" alt="HTML Purifier"> **[HTML Purifier](https://github.com/PHP-Sources/html-purifier)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/jpgraph.webp" width="20" height="20" alt="JpGraph"> **[JpGraph](https://github.com/PHP-Sources/jpgraph)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/forms-tools.webp" width="20" height="20" alt="Forms Tools"> **[Forms Tools](https://github.com/PHP-Sources/forms-tools)**
+
+**Email & Webmail**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phplist.webp" width="20" height="20" alt="phpList"> **[phpList](https://github.com/PHP-Sources/phplist)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpmailer.webp" width="20" height="20" alt="PHPMailer"> **[PHPMailer](https://github.com/PHP-Sources/phpmailer)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/nocc.webp" width="20" height="20" alt="Nocc"> **[Nocc](https://github.com/PHP-Sources/nocc)**
+
+**Administration & Support**  
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/osticket.webp" width="20" height="20" alt="osTicket"> **[osTicket](https://github.com/PHP-Sources/osticket)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/gestassophp.webp" width="20" height="20" alt="GestAssoPhp"> **[GestAssoPhp](https://github.com/PHP-Sources/gestassophp)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/rosariosis.webp" width="20" height="20" alt="RosarioSIS"> **[RosarioSIS](https://github.com/PHP-Sources/rosariosis)**
+
 **Autres**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/seo%20panel.webp" width="20" height="20" alt="SEO Panel"> **[SEO Panel](https://github.com/PHP-Sources/seo-panel)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/elgg.webp" width="20" height="20" alt="Elgg"> **[Elgg Social Network](https://github.com/PHP-Sources/elgg-social)** · 
@@ -84,7 +109,8 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/zentao.webp" width="20" height="20" alt="ZenTao"> **[ZenTao](https://github.com/PHP-Sources/zentao)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/ampache.webp" width="20" height="20" alt="Ampache"> **[Ampache](https://github.com/PHP-Sources/ampache)** · 
 **[phpMyChat](https://github.com/PHP-Sources/phpmychat)** · 
-**[WebCalendar](https://github.com/PHP-Sources/webcalendar)**
+**[WebCalendar](https://github.com/PHP-Sources/webcalendar)** · 
+**[net2ftp](https://github.com/PHP-Sources/net2ftp)**
 
 ### 🔗 Accédez directement sur le site
 
