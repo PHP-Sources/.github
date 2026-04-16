@@ -11,7 +11,7 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 ### 📦 Nos miroirs actifs
 
 **ERP / Gestion**  
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr-erp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr erp.webp" width="20" height="20" alt="Dolibarr"> **[Dolibarr ERP](https://github.com/PHP-Sources/dolibarr-erp)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/weberp.webp" width="20" height="20" alt="Web ERP Accounting"> **[Web ERP Accounting](https://github.com/PHP-Sources/weberp)**
 
 **CMS**  
@@ -85,7 +85,7 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/pmwiki.webp" width="20" height="20" alt="PmWiki"> **[PmWiki](https://github.com/PHP-Sources/pmwiki)**
 
 **Outils & Frameworks**  
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/yiiframework.webp" width="20" height="20" alt="Yii Framework"> **[Yii Framework](https://github.com/PHP-Sources/yii-framework)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/yii framework.webp" width="20" height="20" alt="Yii Framework"> **[Yii Framework](https://github.com/PHP-Sources/yii-framework)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/magepattern.webp" width="20" height="20" alt="Magepattern"> **[Magepattern](https://github.com/PHP-Sources/magepattern)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/html-purifier.webp" width="20" height="20" alt="HTML Purifier"> **[HTML Purifier](https://github.com/PHP-Sources/html-purifier)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/jpgraph.webp" width="20" height="20" alt="JpGraph"> **[JpGraph](https://github.com/PHP-Sources/jpgraph)** · 
@@ -93,12 +93,12 @@ Nous maintenons des miroirs GitHub de scripts populaires pour faciliter l’acc�
 
 **Email & Webmail**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/phplist.webp" width="20" height="20" alt="phpList"> **[phpList](https://github.com/PHP-Sources/phplist)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpmailer.webp" width="20" height="20" alt="PHPMailer"> **[PHPMailer](https://github.com/PHP-Sources/phpmailer)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/php-mailer.webp" width="20" height="20" alt="PHPMailer"> **[PHPMailer](https://github.com/PHP-Sources/phpmailer)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/nocc.webp" width="20" height="20" alt="Nocc"> **[Nocc](https://github.com/PHP-Sources/nocc)**
 
 **Administration & Support**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/osticket.webp" width="20" height="20" alt="osTicket"> **[osTicket](https://github.com/PHP-Sources/osticket)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/gestassophp.webp" width="20" height="20" alt="GestAssoPhp"> **[GestAssoPhp](https://github.com/PHP-Sources/gestassophp)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/gestasso.webp" width="20" height="20" alt="GestAssoPhp"> **[GestAssoPhp](https://github.com/PHP-Sources/gestassophp)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/rosariosis.webp" width="20" height="20" alt="RosarioSIS"> **[RosarioSIS](https://github.com/PHP-Sources/rosariosis)**
 
 **Autres**  
