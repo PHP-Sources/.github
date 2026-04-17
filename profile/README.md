@@ -6,9 +6,9 @@
 
 ### 🎯 +3200 scripts et 750 snippets
 
-Nous maintenons sur GitHub les **dernières versions** des scripts PHP pour faciliter l’**accès**, le **versioning** et la **communauté**.
+Nous maintenons sur GitHub les **dernières versions** des scripts PHP pour faciliter l’**accès**, le **versioning** et la **communauté PHP**.
 
-Toutes les fiches sur **phpsources.net** sont équipées d’**outils d’analyse avancés** qui permettent de :
+Toutes les fiches sur **phpsources.net** ont des **outils d’analyse avancés** qui permettent de :
 
 - Visualiser rapidement l’**arborescence** des fichiers
 - Consulter les **statistiques**
@@ -20,7 +20,7 @@ L’**explorateur** intégré offre la possibilité de :
 - Les télécharger individuellement
 - Effectuer des **recherches** au sein des fichiers
 
-### 📦 Nos miroirs actifs
+### 📦 Les miroirs actifs
 
 **Moteurs - Plateformes**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/php.webp" width="20" height="20" alt="PHP"> **[PHP](https://github.com/PHP-Sources/php)** · 
