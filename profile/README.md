@@ -20,7 +20,7 @@ L’**explorateur** intégré offre la possibilité de :
 - Les télécharger individuellement
 - Effectuer des **recherches** au sein des fichiers
 
-### 📦 Les miroirs actifs
+### 📦 Les dépots actifs
 
 **Moteurs - Plateformes**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/php.webp" width="20" height="20" alt="PHP"> **[PHP](https://github.com/PHP-Sources/php)** · 
