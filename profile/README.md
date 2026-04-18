@@ -54,6 +54,7 @@ L’**explorateur** intégré offre la possibilité de :
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/csz-cms.webp" width="20" height="20" alt="CSZ-CMS"> **[CSZ-CMS](https://github.com/PHP-Sources/csz-cms)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/wbce.webp" width="20" height="20" alt="WBCE"> **[WBCE](https://github.com/PHP-Sources/wbce)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/tiki.webp" width="20" height="20" alt="Tiki"> **[Tiki](https://github.com/PHP-Sources/tiki)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/bludit.webp" width="20" height="20" alt="Bludit"> **[Bludit](https://github.com/PHP-Sources/bludit)**
 
 **E-commerce**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/zen%20cart.webp" width="20" height="20" alt="Zen Cart"> **[Zen Cart](https://github.com/PHP-Sources/zen-cart)** · 
