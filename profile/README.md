@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/badge/Site%20Web-phpsources.net-007ACC?style=for-the-badge&logo=php&logoColor=white)](https://phpsources.net)
 
 ### 🎯 +3200 scripts et 750 snippets
+🌐 **[Site GitHub Pages](https://php-sources.github.io)** — Miroir complet et explorateur
 
 Nous maintenons sur GitHub les **dernières versions** des scripts PHP pour faciliter l’**accès**, le **versioning** et la **communauté PHP**.
 
