@@ -104,6 +104,7 @@ L’**explorateur** intégré offre la possibilité de :
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/mantisbt.webp" width="20" height="20" alt="MantisBT"> **[MantisBT](https://github.com/PHP-Sources/mantisbt)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/ilias.webp" width="20" height="20" alt="ILIAS"> **[ILIAS](https://github.com/PHP-Sources/ilias)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/mrbs.webp" width="20" height="20" alt="MRBS"> **[MRBS](https://github.com/PHP-Sources/mrbs)**
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/zwiicampus.webp" width="20" height="20" alt="ZwiiCampus"> **[ZwiiCampus](https://github.com/PHP-Sources/zwiicampus)**
 
 **Espace privé**  
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/agora-project.webp" width="20" height="20" alt="Agora-Project"> **[Agora-Project](https://github.com/PHP-Sources/agora-project)** · 
