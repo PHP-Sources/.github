@@ -125,7 +125,8 @@ L’**explorateur** intégré offre la possibilité de :
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpmyfaq.webp" width="20" height="20" alt="phpMyFAQ"> **[phpMyFAQ](https://github.com/PHP-Sources/phpmyfaq)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpsysinfo.webp" width="20" height="20" alt="phpSysInfo"> **[phpSysInfo](https://github.com/PHP-Sources/phpsysinfo)** · 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/zentao.webp" width="20" height="20" alt="ZenTao"> **[ZenTao](https://github.com/PHP-Sources/zentao)** · 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/ampache.webp" width="20" height="20" alt="Ampache"> **[Ampache](https://github.com/PHP-Sources/ampache)** · 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/ampache.webp" width="20" height="20" alt="Ampache"> **[Ampache](https://github.com/PHP-Sources/ampache)** ·
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/nhtml.webp" width="20" height="20" alt="NHTML"> **[NHTML](https://github.com/PHP-Sources/nhtml)** ·
 **[phpMyChat](https://github.com/PHP-Sources/phpmychat)** · 
 **[WebCalendar](https://github.com/PHP-Sources/webcalendar)** · 
 **[net2ftp](https://github.com/PHP-Sources/net2ftp)**
